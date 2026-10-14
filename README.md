@@ -2,6 +2,11 @@
 
 GitHub Pages site for App Store Connect, matching the Scorely legal repo.
 
+The pages now redirect to riskyrolls.com (source: `RiskyRolls/backend/hosting`),
+which is the canonical home for the privacy policy, terms and support. The old
+URLs stay live because the Google Play listing and App Store Connect still link
+to them.
+
 Live URLs after Pages is enabled:
 
 - https://scorelyapp.github.io/riskyrolls/privacy-policy.html
